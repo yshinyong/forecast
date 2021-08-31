@@ -1,6 +1,4 @@
-**Forecast**
-
-Prophet
+**1. Forecast using Prophet**
 
 
 **References:**
